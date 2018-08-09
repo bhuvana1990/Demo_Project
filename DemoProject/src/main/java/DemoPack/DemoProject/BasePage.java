@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Random;
 
-import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
