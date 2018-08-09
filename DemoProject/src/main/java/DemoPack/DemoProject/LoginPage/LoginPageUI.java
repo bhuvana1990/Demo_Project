@@ -23,7 +23,7 @@ public class LoginPageUI extends BasePage {
 	@FindBy(id="email_create") public WebElement regEmail;
 	@FindBy(id="SubmitCreate") public WebElement regSubmit;
 	@FindBy(id="uniform-id_gender2") public WebElement regGender;
-	@FindBy(id="customer_firstnam") public WebElement regFirstName;
+	@FindBy(id="customer_firstna") public WebElement regFirstName;
 	@FindBy(id="customer_lastname") public WebElement regLastName;
 	@FindBy(id="days") public WebElement regBirthDate;
 	@FindBy(id="months") public WebElement regBirthMonth;
