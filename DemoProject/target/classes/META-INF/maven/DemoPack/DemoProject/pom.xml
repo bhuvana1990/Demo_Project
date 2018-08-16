@@ -33,7 +33,6 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.11</version>
-			<scope>test</scope>
 		</dependency>
 
 		<dependency>
@@ -65,12 +64,7 @@
 		    <artifactId>extentreports</artifactId>
 		    <version>2.41.2</version>
 		</dependency>
-		<dependency>
-		  <groupId>org.apache.maven.plugins</groupId>
-		  <artifactId>maven-install-plugin</artifactId>
-		  <version>2.5.2</version>
-		  <type>maven-plugin</type>
-		</dependency>
+		
 		
 	</dependencies>
 	<build>
