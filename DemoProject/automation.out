@@ -121,3 +121,8 @@ CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (b4b08fac8becfa
 ENTERED E-MAIL ADDRESS:qatest99983@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (b4b08fac8becfa82a9f6dc2f566e7798)] -> id: email_create]
 ------Ending TC_001 Test------
 ---Browser closed---
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (5c292f6f123a623b08a828803a43981e)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest46647@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (5c292f6f123a623b08a828803a43981e)] -> id: email_create]
+------Ending TC_001 Test------
+---Browser closed---
