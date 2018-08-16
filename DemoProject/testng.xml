@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="DemoProjectSuite">
-	<listeners>
-		<listener class-name="customerListener.ListenerClass"></listener>
-		<listener class-name="customerListener.RetryListener"></listener>
-	</listeners>
-  <test thread-count="5" name="DemoProjectTest">
-  <parameter name="browser" value="chrome"></parameter>
+<suite name="test2Suite">
+  <test thread-count="5" name="test2Test">
     <classes>
+      <class name="DemoPack.DemoProject.TC_002"/>
       <class name="DemoPack.DemoProject.TC_001"/>
     </classes>
-  </test> <!-- DemoProjectTest -->
-</suite> <!-- DemoProjectSuite -->
+  </test> <!-- test2Test -->
+</suite> <!-- test2Suite -->
